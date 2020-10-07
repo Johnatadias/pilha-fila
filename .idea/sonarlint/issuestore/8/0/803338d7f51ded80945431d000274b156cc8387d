@@ -1,0 +1,11 @@
+
+J
+java:S1128"(Remove this unused import 'utils.Pilha'.(Ì¸Éşÿÿÿÿ8ÖĞîúÎ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Ğ‘¨–8¯ÚşúÎ.
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ŸâŒ¬ıÿÿÿÿ
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(À©Çşüÿÿÿÿ8¯ÚşúÎ.
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(æğïüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÕÍ¿
+C
+java:S1125*"(Remove the literal "true" boolean value.(¤¢«ªûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ı±ÒÅøÿÿÿÿ
